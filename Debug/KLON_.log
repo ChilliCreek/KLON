@@ -1,11 +1,9 @@
-﻿  pch.cpp
-  Main.cpp
+﻿  Main.cpp
 c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(19): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
 c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
 c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
 c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(80): warning C4305: 'argument': truncation from 'double' to 'float'
 c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(86): warning C4305: 'argument': truncation from 'double' to 'float'
-  areamap.cpp
-  Generating Code...
-  KLON_.vcxproj -> C:\Users\Chinguun\Documents\Visual Studio Stuff\Projects\KLON_\Debug\KLON_.exe
+c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(104): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(104): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
