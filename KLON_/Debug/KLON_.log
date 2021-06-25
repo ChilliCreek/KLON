@@ -1,0 +1,38 @@
+<<<<<<< Updated upstream
+﻿  pch.cpp
+  Main.cpp
+c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(19): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(80): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\chinguun\documents\visual studio stuff\projects\klon_\klon_\main.cpp(86): warning C4305: 'argument': truncation from 'double' to 'float'
+  areamap.cpp
+  Generating Code...
+  KLON_.vcxproj -> C:\Users\Chinguun\Documents\Visual Studio Stuff\Projects\KLON_\Debug\KLON_.exe
+=======
+﻿  Main.cpp
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(18,108): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(18,69): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(18,118): error C2059: syntax error: ';'
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(22,15): error C2065: 'res1': undeclared identifier
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(22,21): error C2065: 'res2': undeclared identifier
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(47,37): error C2065: 'res1': undeclared identifier
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(47,77): error C2065: 'res2': undeclared identifier
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(48,32): error C2065: 'xlength': undeclared identifier
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(49,32): error C2065: 'ylength': undeclared identifier
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(79,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(80,33): error C2065: 'xlength': undeclared identifier
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(80,46): error C2065: 'ylength': undeclared identifier
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(85,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(86,33): error C2065: 'xlength': undeclared identifier
+C:\Users\Chinguun\Documents\Projects\KLON_\KLON_\Main.cpp(86,46): error C2065: 'ylength': undeclared identifier
+>>>>>>> Stashed changes
